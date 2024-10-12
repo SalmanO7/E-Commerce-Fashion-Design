@@ -12,7 +12,17 @@ Welcome to the Fashion Design E-Commerce project, a modern and stylish fashion s
 
 
 ### Technologies Used
+
 - React: For building reusable UI components and managing application state.
 - TypeScript: Adds type safety and enhances development with improved IDE support and error checking.
 - TailwindCSS: Provides utility-first CSS classes to create a sleek, modern, and responsive design.
 - Vite: Lightning-fast development environment for building React apps with TypeScript.
+
+### Getting Started
+
+- Follow these instructions to set up and run the project locally.
+
+### Prerequisites
+
+- Make sure you have the following tools installed:
+- Node.js v16+
