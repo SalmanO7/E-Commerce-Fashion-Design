@@ -5,7 +5,6 @@ Welcome to the Fashion Design E-Commerce project, a modern and stylish fashion s
 ### Features
 
 Homepage: A visually appealing landing page with a sleek design showcasing trending fashion items.
-
 Product Display: Detailed views for different product categories such as Makeup, Accessories, and Clothing.
 
 Responsive Design: Built with TailwindCSS, the application is fully mobile-responsive and adjusts smoothly to various screen sizes.
