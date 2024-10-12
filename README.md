@@ -10,7 +10,6 @@ Welcome to the Fashion Design E-Commerce project, a modern and stylish fashion s
 - Navigation: The app includes easy navigation with pages like Home, Shop, Portfolio, Blogs, etc.
 - Performance Optimized: Optimized with Vite for fast loading and a smooth development experience.
 
-
 ### Technologies Used
 
 - React: For building reusable UI components and managing application state.
