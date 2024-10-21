@@ -1,9 +1,9 @@
 import React from "react";
-import MeakupImg from "../../../public/assets/makeup.jpg";
+import MeakupImg from "../../assets/makeup.jpg";
 
 const About = () => {
   return (
-    <div className="container  pt-[160px]">
+    <div className="container about pt-[160px]">
       <div className="flex flex-col justify-center items-center  md:flex-row md:justify-between  gap-10 w-full">
         <img
           className="h-[80%] w-[80%] md:h-[50%] md:w-[50%]"

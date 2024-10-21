@@ -1,12 +1,11 @@
 import React from "react";
 import SectionTitle from "../sectionTitle/SectionTitle";
+import image1 from "../../assets/pro_1.png";
+import image2 from "../../assets/pro_2.png";
+import image3 from "../../assets/pro_3.png";
+import image4 from "../../assets/pro_4.png";
 
-const productsImages = [
-  "assets/pro_1.png",
-  "assets/pro_2.png",
-  "assets/pro_3.png",
-  "assets/pro_4.png",
-];
+const productsImages = [image1, image2, image3, image4];
 
 const collation = () => {
   return (

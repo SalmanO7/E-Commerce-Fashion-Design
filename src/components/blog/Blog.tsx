@@ -1,18 +1,21 @@
 import React from "react";
 import SectionTitle from "../sectionTitle/SectionTitle";
+import image1 from '../../assets/post_1.jpg'
+import image2 from '../../assets/post_2.jpg'
+import image3 from '../../assets/post_3.jpg'
 import BlogCard from "./card/BlogCard";
 
 const blogs = [
   {
-    img: "assets/post_1.jpg",
+    img: image1,
     title: "FASHION GLAM SHOW",
   },
   {
-    img: "assets/post_2.jpg",
+    img: image2,
     title: "NEW YORK STYLE",
   },
   {
-    img: "assets/post_3.jpg",
+    img: image3,
     title: "L'AMOUR IN GLAMOUR",
   },
 ];

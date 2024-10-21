@@ -6,6 +6,7 @@ interface propsType {
   subHeading: string;
 }
 
+
 const SectionTitle: React.FC<propsType> = ({
   topHeading,
   mainHeading,

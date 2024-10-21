@@ -1,18 +1,21 @@
 import React from "react";
+import image1 from "../../assets/cat_1.png";
+import image2 from "../../assets/cat_2.png";
+import image3 from "../../assets/cat_3.png";
 
 const CategoryData = [
   {
-    img: "assets/cat_1.png",
+    img: image1,
     text1: "Flats",
     text2: "From the Spring",
   },
   {
-    img: "assets/cat_2.png",
+    img: image2,
     text1: "Boots",
     text2: "From the Fall",
   },
   {
-    img: "assets/cat_3.png",
+    img: image3,
     text1: "Sandals",
     text2: "From the Summer",
   },
