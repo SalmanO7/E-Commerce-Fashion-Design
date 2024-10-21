@@ -1,9 +1,9 @@
 import React from "react";
 import SectionTitle from "../sectionTitle/SectionTitle";
-import image1 from "../../assets/pro_1.png";
-import image2 from "../../assets/pro_2.png";
-import image3 from "../../assets/pro_3.png";
-import image4 from "../../assets/pro_4.png";
+import image1 from "../../assets/pro_1.jpg";
+import image2 from "../../assets/pro_2.jpg";
+import image3 from "../../assets/pro_3.jpg";
+import image4 from "../../assets/pro_4.jpg";
 
 const productsImages = [image1, image2, image3, image4];
 
