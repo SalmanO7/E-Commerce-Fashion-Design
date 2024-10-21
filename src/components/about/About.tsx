@@ -1,5 +1,5 @@
 import React from "react";
-// import MeakupImg from "../../assets/makeup.jpg";
+import MeakupImg from "../../assets/makeup.jpg";
 
 const About = () => {
   return (
@@ -7,7 +7,7 @@ const About = () => {
       <div className="flex flex-col justify-center items-center  md:flex-row md:justify-between  gap-10 w-full">
         <img
           className="h-[80%] w-[80%] md:h-[50%] md:w-[50%]"
-          // src={MeakupImg}
+          src={MeakupImg}
           alt="meakup img"
         />
         <div>

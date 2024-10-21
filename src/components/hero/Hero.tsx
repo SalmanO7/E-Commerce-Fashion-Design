@@ -1,12 +1,12 @@
 import React from "react";
-// import image from '../../assets/hero.jpg'
+import image from '../../assets/hero.jpg'
 
 const Hero = () => {
   return (
     <div className="conatainer">
       <div className="relative w-full h-[100vh]">
         <img
-          // src={image}
+          src={image}
           alt="name"
           className="w-full h-[100%] object-cover bg-cover bg-fixed sm:bg-top"
         />
