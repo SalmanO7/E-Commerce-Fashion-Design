@@ -1,6 +1,6 @@
 import React from "react";
 import SectionTitle from "../sectionTitle/SectionTitle";
-import image1 from "../../assets/pro_1.jpg";
+import image1 from '../../assets/pro_1.jpg';
 import image2 from "../../assets/pro_2.jpg";
 import image3 from "../../assets/pro_3.jpg";
 import image4 from "../../assets/pro_4.jpg";
